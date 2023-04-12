@@ -1,0 +1,15 @@
+/Users/albertboronovskij/Desktop/final final work/final_final_work/bin/Debug/net6.0/final_final_work
+/Users/albertboronovskij/Desktop/final final work/final_final_work/bin/Debug/net6.0/final_final_work.deps.json
+/Users/albertboronovskij/Desktop/final final work/final_final_work/bin/Debug/net6.0/final_final_work.runtimeconfig.json
+/Users/albertboronovskij/Desktop/final final work/final_final_work/bin/Debug/net6.0/final_final_work.dll
+/Users/albertboronovskij/Desktop/final final work/final_final_work/bin/Debug/net6.0/final_final_work.pdb
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.csproj.CoreCompileInputs.cache
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.dll
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/refint/final_final_work.dll
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.pdb
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/final_final_work.genruntimeconfig.cache
+/Users/albertboronovskij/Desktop/final final work/final_final_work/obj/Debug/net6.0/ref/final_final_work.dll
